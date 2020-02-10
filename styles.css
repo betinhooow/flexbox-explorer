@@ -1,0 +1,11 @@
+#app{
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    background: #ff0000;
+    margin: 5px;
+}
